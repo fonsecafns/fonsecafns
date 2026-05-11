@@ -1,5 +1,3 @@
-<div align="center">
-
 ```python
 class Developer:
     name        = "Matheus Fonseca"
@@ -48,5 +46,3 @@ Fundador e desenvolvedor da **[HelloW Code](https://www.instagram.com/hellowcode
 
 ![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecafns&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecafns&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
