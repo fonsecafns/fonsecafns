@@ -2,11 +2,11 @@
 class Developer:
     name        = "Matheus Fonseca"
     role        = "Software Developer"
-    company     = "HelloW Code 🏢"
-    location    = "Brasil 🇧🇷"
+    company     = "HelloW Code"
+    location    = "Rio de Janeiro, Brasil"
     languages   = ["Python", "TypeScript", "JavaScript"]
     stack       = ["Node.js", "React", "Telegram Bot API"]
-    building    = "Site da HelloW Code 🚀"
+    building    = "Site da HelloW Code"
     fun_fact    = "Meu bot no Telegram já ajudou +100 pessoas no dia a dia"
 ```
 
