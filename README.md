@@ -41,8 +41,3 @@ Fundador e desenvolvedor da **[HelloW Code](https://www.instagram.com/hellowcode
 [![HelloW Code](https://img.shields.io/badge/HelloW_Code-FF6B35?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hellowcode/)
 
 ---
-
-### 📊 GitHub Stats
-
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecafns&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecafns&layout=compact&theme=tokyonight&hide_border=true)
