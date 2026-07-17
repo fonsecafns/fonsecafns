@@ -6,7 +6,7 @@ class Developer:
     location    = "Rio de Janeiro, Brazil"
     languages   = ["Python", "TypeScript", "JavaScript"]
     stack       = ["Node.js", "React", "Telegram Bot API"]
-    building    = "Sonhos"
+    building    = "Dreams"
     fun_fact    = "My bot helps +100 people every single day"
 ```
 
