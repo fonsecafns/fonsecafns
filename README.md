@@ -9,10 +9,9 @@ class Developer:
     building    = "Dreams"
     fun_fact    = "My bot helps +100 people every single day"
 ```
+### 🛠 Tech Stack
 
 <div align="center">
-
-### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
