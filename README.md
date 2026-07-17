@@ -47,10 +47,6 @@ Founder & Developer at **[HelloW Code](https://www.instagram.com/hellowcode/)** 
 
 </div>
 
-> 💡 Prefere um card visual? Descomente a linha abaixo quando o serviço `github-readme-stats` estiver estável:
->
-> `![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonsecafns&show_icons=true&theme=radical)`
-
 ---
 
 ### 📬 Find Me Online
