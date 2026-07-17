@@ -33,7 +33,7 @@ class Developer:
 
 ### 🌐 HelloW Code
 
-Founder & Developer at **[HelloW Code](https://www.hellowcode.com.br/)** — building digital dreams, one line of code at a time. 💭
+Founder & Developer at **[HelloW Code](https://hellowcode.com.br/)** — building digital dreams, one line of code at a time. 💭
 
 ---
 
