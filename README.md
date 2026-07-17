@@ -36,18 +36,6 @@ Founder & Developer at **[HelloW Code](https://www.instagram.com/hellowcode/)** 
 
 ---
 
-### 📊 GitHub Overview
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=fonsecafns&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/fonsecafns?style=for-the-badge&color=blueviolet&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?color=blueviolet&style=for-the-badge&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ffonsecafns)
-
-</div>
-
----
-
 ### 📬 Find Me Online
 
 <p align="center">
@@ -65,5 +53,5 @@ Founder & Developer at **[HelloW Code](https://www.instagram.com/hellowcode/)** 
 ---
 
 <div align="center">
-  <i>⭐ Thanks for stopping by — feel free to explore my repositories!</i>
+  <i>⭐ Thanks for stopping by!</i>
 </div>
